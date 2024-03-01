@@ -18,3 +18,9 @@ Please do not use this tool on other people's devices without their permission.
 Do not use this tool to harm others.
 Use this project responsibly on your own devices only.
 It is the end user's responsibility to obey all applicable local, state, federal, and international laws.
+
+Installing Metasploit-Framework:
+On Linux / macOS :
+curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall && \
+  chmod 755 msfinstall && \
+  ./msfinstall
