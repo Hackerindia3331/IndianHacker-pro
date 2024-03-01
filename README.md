@@ -6,7 +6,7 @@ metasploit-framework : Metasploit-Framework (msfvenom and msfconsole)
 scrcpy : Scrcpy
 nmap : Nmap
 How to install
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
-cd PhoneSploit-Pro/
+git clone https://github.com/Hackerindia3331/IndianHacker-pro.git
+cd IndianHacker-pro 
 pip install -r requirements.txt
-python3 phonesploitpro.py
+python3 IndianHacker-pro.py
