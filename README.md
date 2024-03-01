@@ -8,7 +8,7 @@ nmap : Nmap
 How to install
 git clone https://github.com/Hackerindia3331/IndianHacker-pro.git
 cd IndianHacker-pro 
-pip install -r requirements.txt
+pip install -r requirements updated.txt
 python3 IndianHacker-pro.py
 
 Disclaimer
